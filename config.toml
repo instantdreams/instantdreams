@@ -24,12 +24,17 @@ theme = "aerial"
 [[params.social]]
   medium = "Github"
   icon = "github"
-  link = "https://github.com/morpheusdreaming/"
+  link = "https://github.com/instantdreams/"
 
 [[params.social]]
   medium = "Tumblr"
   icon = "tumblr"
   link = "http://instant-dreams.tumblr.com/"
+
+[[params.social]]
+  medium = "Instagram"
+  icon = "instasgram"
+  link = "https://www.instagram.com/instant_dreams/"
 
 [[params.social]]
   medium = "Email"
