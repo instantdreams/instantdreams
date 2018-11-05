@@ -28,7 +28,7 @@ theme = "aerial"
 
 [[params.social]]
   medium = "Tumblr"
-  icon = "tumblr-square"
+  icon = "tumblr"
   link = "http://instant-dreams.tumblr.com/"
 
 [[params.social]]
