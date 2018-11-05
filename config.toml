@@ -33,7 +33,7 @@ theme = "aerial"
 
 [[params.social]]
   medium = "Instagram"
-  icon = "instasgram"
+  icon = "instagram"
   link = "https://www.instagram.com/instant_dreams/"
 
 [[params.social]]
