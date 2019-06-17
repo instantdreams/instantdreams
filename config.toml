@@ -39,4 +39,4 @@ theme = "aerial"
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "deanwsmith@outlook.com"
+  link = "mailto:deanwsmith@outlook.com"
